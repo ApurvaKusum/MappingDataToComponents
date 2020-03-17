@@ -1,2 +1,0 @@
-# MappingDataToComponents
-Created with CodeSandbox
